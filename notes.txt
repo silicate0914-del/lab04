@@ -1,0 +1,3 @@
+My CITS1501 lab 04 note. 
+Learning git today.
+you must add -m after typing "git commit.
