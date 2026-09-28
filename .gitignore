@@ -1,0 +1,5 @@
+# Private files, never track these
+secret.txt
+# Operating system junk
+.DS_Store
+Thumbs.db
